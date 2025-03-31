@@ -1,0 +1,4 @@
+[console_scripts]
+jaffa-annotate = jaffatools.cli.bam_annotator_cli:main
+jaffa-filter = jaffatools.cli.fastq_filter_cli:main
+jaffa-run = jaffatools.cli.jaffa_runner_cli:main
