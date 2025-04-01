@@ -170,4 +170,3 @@ def filter_fastq_parallel(fastq_file, read_names, output_file, chunk_size=100000
             out.write(f"{header}\n{seq}\n{plus}\n{qual}\n")
             
     return len(results)
-

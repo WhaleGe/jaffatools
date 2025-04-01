@@ -2,8 +2,8 @@
 JaffaTools - A Python package for working with JAFFA fusion gene detection
 '''
 
-__version__ = '0.1.0'
-__author__ = 'Huang Waidong'
+__version__ = '0.4.0'
+__author__ = 'Waidong Huang'
 __email__ = 'wdhuang927@gmail.com'
 
 # Import main functions for easy access
@@ -19,4 +19,3 @@ __all__ = [
     'annotate_jaffa_results',
     'run_jaffa'
 ]
-

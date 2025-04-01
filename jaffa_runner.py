@@ -138,4 +138,3 @@ def run_jaffa(memory="72GB", threads=12, sample_name="sample",
     except Exception as e:
         print(f"Error running JAFFA: {str(e)}")
         return False
-

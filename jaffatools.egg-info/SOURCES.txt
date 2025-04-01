@@ -1,9 +1,0 @@
-LICENSE
-README.md
-setup.py
-jaffatools.egg-info/PKG-INFO
-jaffatools.egg-info/SOURCES.txt
-jaffatools.egg-info/dependency_links.txt
-jaffatools.egg-info/entry_points.txt
-jaffatools.egg-info/requires.txt
-jaffatools.egg-info/top_level.txt

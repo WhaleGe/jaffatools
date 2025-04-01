@@ -73,4 +73,3 @@ def annotate_jaffa_results(jaffa_file, read_to_nb, output_file=None):
     
     except Exception as e:
         raise RuntimeError(f"Error processing JAFFA file: {e}")
-
